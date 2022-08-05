@@ -1,4 +1,4 @@
-package com.sjprogramming;
+package com.atm_project_revature;
 
 import java.util.HashMap;
 import java.util.Map;
